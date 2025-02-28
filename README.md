@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date:26.02.2006
+# Date:26.02.2025
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -41,7 +41,8 @@ with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
 
 
 # OUTPUT:
-![alt text](<Screenshot (121).png>)
+![Screenshot (122)](https://github.com/user-attachments/assets/9bcf69f8-3569-4410-a4b7-76577168f684)
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
